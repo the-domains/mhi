@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Mazzone Heavy Industries LLC]]></title>
-        <description><![CDATA[Mazzone Heavy Industries LLC]]></description>
+        <title><![CDATA[MHI]]></title>
+        <description><![CDATA[MHI]]></description>
         <link>http://heavy.camera/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 00:33:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2016 00:44:14 GMT</lastBuildDate>
         <atom:link href="http://heavy.camera/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://heavy.camera/fbc524f6-33e4-4d94-b1f8-894c83045c19/index.html</link>
             <guid isPermaLink="false">fbc524f6-33e4-4d94-b1f8-894c83045c19</guid>
             <pubDate>Fri, 11 Mar 2016 00:19:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[C300 mk2 on the Hudson]]></title>
+            <description><![CDATA[<article><h1>C300 mk2 on the Hudson</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c690a6e571fcb812a378a3ab8e57f4fe9e74af41.png"></article>]]></description>
+            <link>http://heavy.camera/c300-mk2-on-the-hudson/index.html</link>
+            <guid isPermaLink="false">37263ac5-cfd3-4ce6-8ea2-fefe17da02e3</guid>
+            <pubDate>Fri, 11 Mar 2016 00:44:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
