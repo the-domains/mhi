@@ -1,31 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[MHI]]></title>
-        <description><![CDATA[MHI]]></description>
-        <link>http://heavy.camera/</link>
+        <title><![CDATA[Mazzone Heavy Industries LLC]]></title>
+        <description><![CDATA[Mazzone Heavy Industries LLC]]></description>
+        <link>https://thegrid.ai/mhi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 00:44:14 GMT</lastBuildDate>
-        <atom:link href="http://heavy.camera/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 11 Mar 2016 01:26:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mhi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/94bb600c-97ee-495c-a8e2-5f526f98d561.jpg">]]></description>
-            <link>http://heavy.camera/fbc524f6-33e4-4d94-b1f8-894c83045c19/index.html</link>
+            <link>https://thegrid.ai/mhi/fbc524f6-33e4-4d94-b1f8-894c83045c19/index.html</link>
             <guid isPermaLink="false">fbc524f6-33e4-4d94-b1f8-894c83045c19</guid>
             <pubDate>Fri, 11 Mar 2016 00:19:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[C300 mk2 on the Hudson]]></title>
             <description><![CDATA[<article><h1>C300 mk2 on the Hudson</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c690a6e571fcb812a378a3ab8e57f4fe9e74af41.png"></article>]]></description>
-            <link>http://heavy.camera/c300-mk2-on-the-hudson/index.html</link>
+            <link>https://thegrid.ai/mhi/c300-mk2-on-the-hudson/index.html</link>
             <guid isPermaLink="false">37263ac5-cfd3-4ce6-8ea2-fefe17da02e3</guid>
             <pubDate>Fri, 11 Mar 2016 00:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://i.vimeocdn.com/video/560099723_295x166.webp">]]></description>
-            <link>http://heavy.camera/78a45443-cbff-4389-b55d-bfef39ac0d66/index.html</link>
-            <guid isPermaLink="false">78a45443-cbff-4389-b55d-bfef39ac0d66</guid>
-            <pubDate>Fri, 11 Mar 2016 00:33:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
