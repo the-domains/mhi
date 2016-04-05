@@ -4,8 +4,15 @@
         <description><![CDATA[Mazzone Heavy Industries LLC]]></description>
         <link>http://heavy.camera/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 21:45:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2016 21:50:56 GMT</lastBuildDate>
         <atom:link href="http://heavy.camera/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Contact]]></title>
+            <description><![CDATA[<article><h1>Contact</h1><p>Mail:</p></article>]]></description>
+            <link>http://heavy.camera/contact/index.html</link>
+            <guid isPermaLink="false">ba56434e-a3a2-428a-8af1-4cb9eef13053</guid>
+            <pubDate>Tue, 05 Apr 2016 21:50:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/94bb600c-97ee-495c-a8e2-5f526f98d561.jpg">]]></description>
@@ -15,6 +22,7 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Documentary Features</p>]]></description>
             <link>http://heavy.camera/7085c298-2f8f-4bf9-b483-be62806032f7/index.html</link>
             <guid isPermaLink="false">7085c298-2f8f-4bf9-b483-be62806032f7</guid>
             <pubDate>Tue, 05 Apr 2016 21:45:17 GMT</pubDate>
