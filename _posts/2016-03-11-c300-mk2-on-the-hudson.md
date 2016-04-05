@@ -1,18 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:fa9f8cc3-9916-4108-9c9f-4814261a9de3'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2016-04-05T23:14:53.892Z'
+dateModified: '2016-04-05T23:14:43.470Z'
 author: []
-datePublished: '2016-03-11T00:44:00.417Z'
-publisher:
-  domain: ''
-  name: ''
 title: C300 mk2 on the Hudson
-dateModified: '2016-03-11T00:22:35.570Z'
 sourcePath: _posts/2016-03-11-c300-mk2-on-the-hudson.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: c300-mk2-on-the-hudson/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
