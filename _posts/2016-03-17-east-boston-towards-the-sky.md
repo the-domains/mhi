@@ -1,18 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:41e6fac9-ff52-4460-bd4c-cd7d1a2c87da'
+inLanguage: null
+starred: true
+keywords: []
 description: ''
+datePublished: '2016-04-05T23:14:00.033Z'
+dateModified: '2016-04-05T21:36:11.223Z'
 author: []
-datePublished: '2016-03-17T15:48:56.978Z'
-publisher:
-  domain: ''
-  name: ''
 title: East Boston towards the sky
-dateModified: '2016-03-17T15:48:33.060Z'
 sourcePath: _posts/2016-03-17-east-boston-towards-the-sky.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: east-boston-towards-the-sky/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
