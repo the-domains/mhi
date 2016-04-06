@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-05T23:14:53.892Z'
-dateModified: '2016-04-05T23:14:43.470Z'
+datePublished: '2016-04-06T23:01:44.679Z'
+dateModified: '2016-04-05T23:15:02.598Z'
 author: []
 title: C300 mk2 on the Hudson
 sourcePath: _posts/2016-03-11-c300-mk2-on-the-hudson.md
