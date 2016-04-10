@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-09T22:14:34.429Z'
-dateModified: '2016-04-05T23:14:05.470Z'
+datePublished: '2016-04-10T00:52:40.440Z'
+dateModified: '2016-04-10T00:46:03.075Z'
 author: []
 title: East Boston towards the sky
 sourcePath: _posts/2016-03-17-east-boston-towards-the-sky.md
@@ -24,4 +24,4 @@ _type: Article
 
 ---
 # East Boston towards the sky
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/97a96357-3810-4c2e-a907-1a955dd11900.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0ccb32fa84d74c1369ea29f289aea54af530f16c.png)
