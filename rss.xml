@@ -4,14 +4,21 @@
         <description><![CDATA[Mazzone Heavy Industries LLC]]></description>
         <link>http://heavy.camera/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Apr 2016 00:53:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2016 00:53:18 GMT</lastBuildDate>
         <atom:link href="http://heavy.camera/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Production Services]]></title>
+            <description><![CDATA[<article><h1>Production Services</h1><p>What I shoot:</p></article>]]></description>
+            <link>http://heavy.camera/7085c298-2f8f-4bf9-b483-be62806032f7/index.html</link>
+            <guid isPermaLink="false">7085c298-2f8f-4bf9-b483-be62806032f7</guid>
+            <pubDate>Sun, 10 Apr 2016 00:52:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[East Boston towards the sky]]></title>
             <description><![CDATA[<article><h1>East Boston towards the sky</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0ccb32fa84d74c1369ea29f289aea54af530f16c.png"></article>]]></description>
             <link>urn:uuid:41e6fac9-ff52-4460-bd4c-cd7d1a2c87da</link>
             <guid isPermaLink="false">ff5a88f9-0d80-4ac7-9d0e-079c3f37d0a0</guid>
-            <pubDate>Sat, 09 Apr 2016 22:14:34 GMT</pubDate>
+            <pubDate>Sun, 10 Apr 2016 00:52:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[C300 mk2 on the Hudson]]></title>
